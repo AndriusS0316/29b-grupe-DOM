@@ -13,4 +13,4 @@ pDOM.innerText = 'Šiandien gražus oras!';
 
 const nuorodaDOM = document.querySelector('a');
 
-nuorodaDOM.innerText = ''
+nuorodaDOM.innerText = 'Spausk mane!'; 
